@@ -9,7 +9,7 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "outlook-email-db"
-database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
+database_id = "de52e6b9-e93b-4010-bffe-39f54dc36a0b"
 migrations_dir = "migrations"
 
 # Scheduled token refresh. This is just the BASE wake-up rate (every 6h);
